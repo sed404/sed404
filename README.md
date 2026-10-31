@@ -13,7 +13,16 @@
 - 🌱 专注于 **PHP** / **Python** 后端开发，喜欢折腾自动化工具与自托管项目
 - 🔧 维护个人资源站 [mcxk.cc](https://mcxk.cc)，分享各类实用资源
 - 📦 热衷于将自用工具开源，欢迎 Star 和提 Issue
+- 🤖 **AI 协作开发**：仓库中大部分代码由我与 ChatGPT 协同完成，GPT 负责主力编码，我负责需求设计、架构选型、调试与测试，属于典型的"AI 辅助开发"模式
 - 💬 有问题可以加 QQ：**78013314**
+
+## 🤖 AI 辅助开发
+
+![GPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Copilot](https://img.shields.io/badge/-AI%20Assisted-000000?style=flat-square&logo=openai&logoColor=white)
+
+> 本账号下的开源项目均采用 **"我提需求 + GPT 写代码 + 我测试修正"** 的协作模式。
+> AI 是主力开发，我是产品经理兼测试员。代码经过实际部署验证后才会开源，并非 AI 一键生成的 demo。
 
 ## 🛠️ 技术栈
 
