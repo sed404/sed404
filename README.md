@@ -33,12 +33,6 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📊 GitHub 统计
-
-![Sed's GitHub stats](https://github-readme-stats.vercel.app/api?username=sed404&show_icons=true&theme=default&hide_border=true&bg_color=00000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sed404&layout=compact&hide_border=true&bg_color=00000000)
-
 ## 📦 开源项目
 
 | 项目 | 描述 | 协议 |
